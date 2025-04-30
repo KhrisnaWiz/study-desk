@@ -14,7 +14,7 @@ int main() {
     luas = panjang * lebar;
 
     // Menampilkan hasil
-    printf("Luas tanah adalah: %.2f meter persegi\n", luas);
+    printf("Luas tanah berdasarkan kalkulasi adalah: %.2f meter persegi\n", luas);
 
     return 0;
 }
